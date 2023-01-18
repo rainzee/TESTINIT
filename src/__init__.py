@@ -10,3 +10,5 @@ def creat_folder(folder_name: str):
         pass
     except Exception as e:
         pass
+def test():
+    pass
